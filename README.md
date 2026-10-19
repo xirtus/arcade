@@ -3,6 +3,8 @@
 All-ages browser games and experiments. Each game is its own repository with
 source, license, asset notes, and a versioned screenshot.
 
+![ZENDRIVE](https://raw.githubusercontent.com/xirtus/zendrive/main/docs/screenshot.jpg)
+
 | Game | What it is | License |
 |---|---|---|
 | [ZENDRIVE](https://github.com/xirtus/zendrive) | Procedural vaporwave racer; no build step | MIT |
